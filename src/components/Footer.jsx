@@ -31,7 +31,7 @@ const Footer = () => {
             <img src="linkdin.png" alt="" className='w-[30px]'/>
         </div>
 </div>
-<div className='text-xs text-center mt-10 text-[#929292]'>© 2023 Poetry Haven. All rights reserved.</div>
+<div className='text-xs text-center mt-10 text-[#929292]'>© 2024 Poetry Haven. All rights reserved.</div>
     </section>
   )
 }
