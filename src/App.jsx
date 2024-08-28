@@ -6,7 +6,7 @@ function App() {
   
 
   return (
-    <section className="px-7 w-full min-h-screen">
+    <section className="px-7 w-full min-h-screen max-[950px]:px-3 font-poppins">
       <Header />
       <Content />
       <Footer/>
