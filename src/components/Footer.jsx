@@ -8,7 +8,12 @@ const Footer = () => {
             <img src="x.png" alt="" className='w-[30px]'/>
             <img src="linkdin.png" alt="" className='w-[30px]'/>
         </div>
+<<<<<<< HEAD
 <div className='text-xs text-center mt-5 text-[#929292]'>© 2024 Poetry Haven. All rights reserved.</div>
+=======
+</div>
+<div className='text-xs text-center mt-10 text-[#929292]'>© 2024 Poetry Haven. All rights reserved.</div>
+>>>>>>> ddaf756cd2ea474ece2853e1e4437188c64a23c4
     </section>
   )
 }
